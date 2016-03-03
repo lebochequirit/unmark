@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unmark\n"
+"POT-Creation-Date: 2016-03-03 00:33+0000\n"
+"PO-Revision-Date: 2016-03-03 00:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Plain\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: phrases.php:6
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "Sekunde"
+msgstr[1] "Sekunden"
+
+#: phrases.php:7
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "Minute"
+msgstr[1] "Minuten"
+
+#: phrases.php:8
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "Stunde"
+msgstr[1] "Stunden"
+
+#: phrases.php:9
+msgid "day"
+msgid_plural "days"
+msgstr[0] "Tag"
+msgstr[1] "Tage"
+
+#: phrases.php:10
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "Woche"
+msgstr[1] "Wochen"
+
+#: phrases.php:11
+msgid "month"
+msgid_plural "months"
+msgstr[0] "Monat"
+msgstr[1] "Monate"
+
+#: phrases.php:12
+msgid "year"
+msgid_plural "years"
+msgstr[0] "Jahr"
+msgstr[1] "Jahre"
+
+#: phrases.php:14
+msgid "today"
+msgstr "heute"
+
+#: phrases.php:15
+msgid "yesterday"
+msgstr "gestern"
+
+#: phrases.php:16
+msgid "last week"
+msgstr "letzte Woche"
+
+#: phrases.php:17
+msgid "last month"
+msgstr "letzten Monat"
+
+#: phrases.php:18
+msgid "last three months"
+msgstr "letzte drei Monate"
+
+#: phrases.php:19
+msgid "last six months"
+msgstr "letzte sechs Monate"
+
+#: phrases.php:20
+msgid "last year"
+msgstr "letztes Jahr"
+
+#: phrases.php:22
+msgid "Read"
+msgstr "Lesen"
+
+#: phrases.php:23
+msgid "Watch"
+msgstr "Ansehen"
+
+#: phrases.php:24
+msgid "Listen"
+msgstr "Anhören"
+
+#: phrases.php:25
+msgid "Buy"
+msgstr "Kaufen"
+
+#: phrases.php:26
+msgid "Eat & Drink"
+msgstr "Essen und Trinken"
+
+#: phrases.php:27
+msgid "Do"
+msgstr "Erledigen"
+
+#: phrases.php:28
+msgid "Unlabeled"
+msgstr "Nicht markiert"
+
+#: phrases_errors.php:2
+msgid "Mark could not be archived."
+msgstr "Lesezeichen konnte nicht archiviert werden."
+
+#: phrases_errors.php:3
+msgid "No marks found."
+msgstr "Keine Lesezeichen gefunden."
+
+#: phrases_errors.php:4
+msgid "Mark could not be updated."
+msgstr "Lesezeichen konnte nicht aktualisiert werden."
+
+#: phrases_errors.php:5
+msgid "Mark with this id could not be found for this account."
+msgstr ""
+"Lesezeichen mit dieser ID konnte in diesem Benutzerkonto nicht gefunden "
+"werden."
+
+#: phrases_errors.php:6
+msgid "Mark could not be restored."
+msgstr "Lesezeichen konnte nicht wiederhergestellt werden."
+
+#: phrases_errors.php:7
+msgid "Could not add mark."
+msgstr "Lesezeichen konnte nicht hinzugefügt werden."
+
+#: phrases_errors.php:8
+msgid "Could not delete mark."
+msgstr "Lesezeichen konnte nicht gelöscht werden."
+
+#: phrases_errors.php:9
+msgid "This mark doesn't have a valid URL."
+msgstr ""
+
+#: phrases_errors.php:10
+msgid "This mark doesn't have a valid title."
+msgstr ""
+
+#: phrases_errors.php:11
+msgid "No `label_id` was found."
+msgstr ""
+
+#: phrases_errors.php:12
+msgid "No label found using this label_id for your account."
+msgstr ""
+
+#: phrases_errors.php:13
+msgid "No labels found for your account."
+msgstr ""
+
+#: phrases_errors.php:14
+msgid "This type of label could not be found."
+msgstr ""
+
+#: phrases_errors.php:15 phrases_errors.php:19
+msgid "Label already exists for this account."
+msgstr ""
+
+#: phrases_errors.php:16
+msgid "No options found to update for this label."
+msgstr ""
+
+#: phrases_errors.php:17
+msgid "Label could not be created."
+msgstr ""
+
+#: phrases_errors.php:18
+msgid "You do not have access to create a system level label."
+msgstr ""
+
+#: phrases_errors.php:20
+msgid "Label could not be updated."
+msgstr ""
+
+#: phrases_errors.php:21
+msgid "No tags found."
+msgstr ""
+
+#: phrases_errors.php:22
+msgid "No tag provided."
+msgstr ""
+
+#: phrases_errors.php:23
+msgid "Tag could not be added."
+msgstr ""
+
+#: phrases_errors.php:24
+msgid "Account with given email does not exist."
+msgstr ""
+
+#: phrases_errors.php:25
+msgid "Invalid password recovery token."
+msgstr ""
+
+#: phrases_errors.php:26 phrases_errors.php:44
+msgid "No file uploaded."
+msgstr ""
+
+#: phrases_errors.php:27
+msgid "Invalid file format uploaded. Only JSON files accepted"
+msgstr ""
+
+#: phrases_errors.php:28
+msgid "Forbidden"
+msgstr ""
+
+#: phrases_errors.php:29
+msgid "Not Found"
+msgstr ""
+
+#: phrases_errors.php:30
+msgid "Internal Error"
+msgstr ""
+
+#: phrases_errors.php:31
+msgid "Security token is invalid."
+msgstr ""
+
+#: phrases_errors.php:32
+msgid "Validation Errors"
+msgstr ""
+
+#: phrases_errors.php:33
+msgid "Your password is invalid. Passwords must be a minimum of 6 characters."
+msgstr ""
+
+#: phrases_errors.php:34
+msgid "This email address already exists in the system."
+msgstr ""
+
+#: phrases_errors.php:35
+msgid "Your email address is invalid."
+msgstr "Ihre Email-Adresse ist ungültig."
+
+#: phrases_errors.php:36
+msgid "Email not found. Cannot create subscription."
+msgstr ""
+
+#: phrases_errors.php:37
+msgid "Customer ID not found."
+msgstr ""
+
+#: phrases_errors.php:38
+msgid ""
+"Customer already active. Please use correct method to restart their "
+"subscription."
+msgstr ""
+
+#: phrases_errors.php:39
+msgid "Cannot restart an active subscription."
+msgstr ""
+
+#: phrases_errors.php:40
+msgid "No credit card on file."
+msgstr ""
+
+#: phrases_errors.php:41
+msgid "Could not process your request at this time. Please try again."
+msgstr ""
+
+#: phrases_errors.php:42
+#, php-format
+msgid "You have reached your daily limit of %s marks per day."
+msgstr ""
+
+#: phrases_errors.php:43
+#, php-format
+msgid "You have reached your limit of %s marks total."
+msgstr ""
+
+#: phrases_errors.php:45
+msgid "Invalid file format uploaded. Only HTML files accepted."
+msgstr ""
+
+#: phrases_errors.php:46
+msgid "Invalid bookmark URL."
+msgstr ""
+
+#: phrases_errors.php:47
+msgid "The value for user settings cannot be empty."
+msgstr ""
+
+#: phrases_errors.php:48
+msgid "Could not complete request. It's not you it's us."
+msgstr ""
+
+#: phrases_errors.php:49
+msgid "Could not delete your twitter settings at this time."
+msgstr ""
+
+#~ msgid "The email address `%s` was not found."
+#~ msgstr "Die Email-Adresse `%s` wurde nicht gefunden."
